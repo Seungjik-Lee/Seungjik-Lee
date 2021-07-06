@@ -23,7 +23,8 @@
 - 🚅 My hometown is Daegu in Korea
 
 ### Experience
-- 🎓 Daegu Catholic University , Department of Electrical and Electrical Engineering - Electronics major (2015.03 ~ 2019.2)
+- 📚 Daegu Catholic University , Department of Electrical and Electrical Engineering - Electronics major (2015.03 ~ 2019.2)
+- 🪖 Military service, Republic Of Korea Army Combat Engineer (2016.2 ~ 2017.11)
 - 🎓 Keimyung University , Department of Electronic Engineering (2019.03 ~ 2021.2)
 - 🏭 Keimyung University + 경북산업직업전문학교, 스마트팩토리 전문가 과정 (2020.11 ~ 2020.12)
 - 💻 경북산업직업전문학교, AI를 활용한 빅데이터 플랫폼 개발자 과정 (2021.01 ~ 2021.8)
