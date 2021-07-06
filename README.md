@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
+![header](https://capsule-render.vercel.app/api?type=waving&height=400&text=Hello%20World!&desc=Hello%20I'm%20Seungjik)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungjik-Lee%2Fhit-counter&count_bg=%23905ADB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)
 
@@ -16,20 +16,21 @@
 
 
 
-# Harry 😉
+# Seungjik 😉
 ### Who Am I
-- 🌱 I’m currently learning Node, React, Algorithm
-- 🥇 I majored in Economics
-- 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea
+- 🌱 I’m currently learning Java, Python, Algorithm
+- 🥇 I majored in Electronics
+- 🚅 My hometown is Daegu in Korea
 
 ### Experience
-- 🎓 Hanyang University , Economics(ERICA) (2014.03~ )
-- 💊 ESTsoft, Sales team Intern (2018.07~2018.12)
-- 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
+- 🎓 Daegu Catholic University , Department of Electrical and Electrical Engineering - Electronics major (2015.03 ~ 2019.2)
+- 🎓 Keimyung University , Department of Electronic Engineering (2019.03 ~ 2021.2)
+- 🏭 Keimyung University + 경북산업직업전문학교, 스마트팩토리 전문가 과정 (2020.11 ~ 2020.12)
+- 💻 경북산업직업전문학교, AI를 활용한 빅데이터 플랫폼 개발자 과정 (2021.01 ~ 2021.8)
 
 ### What I Like
-- 📺 Drama
-- 🔵 Game
-- 🍕 Pizza
-- 
+- 📖 Study
+- 🍫 Sweet food
+- 🎤 Singing
+- 🏋🏻 Weight Training
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer)
