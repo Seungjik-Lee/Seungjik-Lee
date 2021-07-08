@@ -11,7 +11,6 @@
 - 💻 경북산업직업전문학교, AI를 활용한 빅데이터 플랫폼 개발자 과정 (2021.01 ~ 2021.8)
 
 # Contact me
-<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/intl/ko-kr/)
 
