@@ -3,6 +3,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dltmdwlr@gmail.com)](mailto:dltmdwlr@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%8A%B9%EC%A7%81-%EC%9D%B4-346b2b216/)](https://www.linkedin.com/in/%EC%8A%B9%EC%A7%81-%EC%9D%B4-346b2b216/)
 
+---
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Seungjik-Lee&show_icons=true&locale=en&layout=compact" alt="Seungjik-Lee" /> ![Seungjik-Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungjik-Lee&show_icons=true&theme=radical)
 
 ---
