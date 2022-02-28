@@ -4,6 +4,9 @@
 <img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungjik-Lee%2Fhit-counter&count_bg=%23905ADB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=true"/>
 </p>
 
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=<Seungjik-Lee>&show_icons=true&locale=en&layout=compact" alt="<Seungjik-Lee>" />
+</p>
 ---
 <h3>🛠Tech Stack🔧</h3>
 <p>
