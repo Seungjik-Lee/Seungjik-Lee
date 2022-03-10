@@ -1,41 +1,28 @@
-<h1 align = "center">🌟Hello I'm Seungjik✨</h1>
-
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dltmdwlr@gmail.com)](mailto:dltmdwlr@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%8A%B9%EC%A7%81-%EC%9D%B4-346b2b216/)](https://www.linkedin.com/in/%EC%8A%B9%EC%A7%81-%EC%9D%B4-346b2b216/)
-
----
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seungjik-Lee&show_icons=true&locale=en&layout=compact" alt="Seungjik-Lee" /> ![Seungjik-Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungjik-Lee&show_icons=true&theme=radical)
-
----
-<h3>🛠Tech Stack🔧</h3>
-
-<p>Language</p>
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<p>Framework</p>
-
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-
-<p>Database</p>
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-<p>Devops</p>
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
+# Seungjik 😉
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/Seungjik-Lee) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dltmdwlr@gmail.com) 
+[![Velog Badge](https://img.shields.io/badge/Daily%20Blog-1eb031?style=flat&logoColor=white)](https://velog.io/@sungjik96) 
 
 
----
-<h3>📒Experience📒</h3>
-<p>
-  🪖 Military service, Republic Of Korea Army Combat Engineer (2016.2 ~ 2017.11) <br>
-  🎓 Keimyung University , Department of Electronic Engineering (2019.03 ~ 2021.2) <br>
-  💻 경북산업직업전문학교, AI를 활용한 빅데이터 플랫폼 개발자 과정 (2021.01 ~ 2021.8) <br>
-</p>
+  
+### Who Am I
 
-<img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungjik-Lee%2Fhit-counter&count_bg=%23905ADB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=true"/>
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
+
+- 🌱 I’m currently learning `Java`, `Spring`, `BackEnd`
+- 🥇 I majored in Electronic
+- 🚅 My hometown is Daegu in Korea
+
+### Experience
+- 📖 Daegu Catholic University, Department of Electrical and Electronic Engineering(2015.03~2019.02)
+- 🎓 Keimyung University , Electronic (2019.03~2021.02)
+- 🔥 K-Digital Training, Developers of big data platforms using AI, Web Fullstack (2021.01~2021.08)
+- 🧑🏻‍💻 ycorperation, Development team Intern (2021.11~2022.01)
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Seungjik-Lee" height="165">
+
+### What I Like
+
+- 🍔🥩🍕 Hambuger, Beef, Pizza
+- ⚽️🎳 Soccer, Bowling
+- 📺 Youtube
